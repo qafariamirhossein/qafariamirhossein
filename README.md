@@ -26,9 +26,9 @@ I spend my days turning caffeine into clean(ish) code and nights wondering why m
 
 ### 🧮 GitHub Stats
 
-![AmirHossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirhosseinQafari&show_icons=true&theme=tokyonight&hide_border=true)
+![AmirHossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=qafariamirhossein&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirhosseinQafari&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qafariamirhossein&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 

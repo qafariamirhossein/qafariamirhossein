@@ -24,14 +24,6 @@ I spend my days turning caffeine into clean(ish) code and nights wondering why m
 
 ---
 
-### 🧮 GitHub Stats
-
-![AmirHossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=qafariamirhossein&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qafariamirhossein&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ### 🧙 Fun Facts
 - My code runs on the first try… after the 7th attempt.  
 - I believe console.log() is the ultimate debugger.  

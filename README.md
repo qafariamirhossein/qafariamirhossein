@@ -33,7 +33,7 @@ I spend my days turning caffeine into clean(ish) code and nights wondering why m
 
 ### 📫 Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/amirhossein-qafari)  
-- 🌐 [Portfolio](https://amir-qafari.vercel.app/) *(coming soon, I swear)*  
+- 🌐 [Portfolio](https://amirqafari.vercel.app/) *(coming soon, I swear)*  
 - ✉️ [Email](mailto:qafariamirhossein@gmail.com)  
 
 ---

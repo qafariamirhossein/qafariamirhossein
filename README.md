@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm AmirHossein Qafari
+# 👋 Hey there, I'm Amir Qafari
 
 > 💻 Full Stack Developer | ☕ Code Addict | 🤖 Probably Debugging Right Now
 
@@ -32,7 +32,7 @@ I spend my days turning caffeine into clean(ish) code and nights wondering why m
 ---
 
 ### 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/amirhossein-qafari)  
+- 💼 [LinkedIn](https://linkedin.com/in/amir-qafari)  
 - 🌐 [Portfolio](https://amirqafari.vercel.app/) *(coming soon, I swear)*  
 - ✉️ [Email](mailto:qafariamirhossein@gmail.com)  
 
@@ -40,4 +40,4 @@ I spend my days turning caffeine into clean(ish) code and nights wondering why m
 
 > “First, solve the problem. Then, write a funny comment about it.”
 
-🧑‍💻 *~ AmirHossein Qafari*
+🧑‍💻 *~ Amir Qafari*
